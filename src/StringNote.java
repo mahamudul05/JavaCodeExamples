@@ -53,6 +53,7 @@ public class StringNote {
 
         System.out.println(data1.trim());              // Removes leading and trailing whitespaces.
         System.out.println(data1.replace("m", "s"));
+        System.out.println();
 
 
     }
