@@ -55,7 +55,6 @@ public class StringNote {
         System.out.println(data1.replace("m", "s"));
         System.out.println();
 
-
     }
 
 }
